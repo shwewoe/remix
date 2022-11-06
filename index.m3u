@@ -56,10 +56,6 @@ https://webudi.openhd.lol/lb/premium414/index.m3u8
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=415
 https://webudi.openhd.lol/lb/premium415/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/nvz9QG8cuwh5R9J3rULSJY2TSdsEaKevmpWstJ47a_I/rs:fit:300:300:1/g:ce/aHR0cHM6Ly93d3cu/dHZjaGFubmVscHJp/Y2VsaXN0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvY2hhbm5l/bHMtbG9nby0zMDAv/c3Rhci1zcG9ydHMt/c2VsZWN0LWhkLTEt/bG9nby0zMDB4MzAw/LmpwZw" group-title="Sports", Star Select 1 🇳🇪
-#EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=19
-https://webudi.openhd.lol/lb/premium19/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Wj0HxENThceAjjYEyZpOqlCtbo-tX1rSpVAOFU6e--E/rs:fit:1000:920:1/g:ce/aHR0cHM6Ly8zLmJw/LmJsb2dzcG90LmNv/bS8tNWwwT2RxRGNt/YlkvVnN3Zmt4am1n/VkkvQUFBQUFBQUNW/czAvVWxCT21LdmZa/NkkvczE2MDAvc3Vw/ZXJzcG9ydHMuanBn" group-title="Sports",SuperSport Football 🇿🇦
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=56
 https://webudi.openhd.lol/lb/premium56/index.m3u8
@@ -87,3 +83,7 @@ https://webudi.openhd.lol/lb/premium457/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/dNJOPrmdHLagtJQGA7RIWWSw7Z7Bge0lQME0N2uZrrU/rs:fit:790:306:1/g:ce/aHR0cHM6Ly93d3cu/bWVkaWFzcGVjcy5i/ZS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ny8wNC9lbGV2ZW4t/c3BvcnRzLnBuZw" group-title="Sports", Elevensport 4 🇵🇹
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=458
 https://webudi.openhd.lol/lb/premium458/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/nvz9QG8cuwh5R9J3rULSJY2TSdsEaKevmpWstJ47a_I/rs:fit:300:300:1/g:ce/aHR0cHM6Ly93d3cu/dHZjaGFubmVscHJp/Y2VsaXN0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvY2hhbm5l/bHMtbG9nby0zMDAv/c3Rhci1zcG9ydHMt/c2VsZWN0LWhkLTEt/bG9nby0zMDB4MzAw/LmpwZw" group-title="Sports", Star Select 1 🇳🇪
+#EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=19
+https://webudi.openhd.lol/lb/premium19/index.m3u8

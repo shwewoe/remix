@@ -60,6 +60,10 @@ https://webudi.openhd.lol/lb/premium415/index.m3u8
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=56
 https://webudi.openhd.lol/lb/premium56/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Wj0HxENThceAjjYEyZpOqlCtbo-tX1rSpVAOFU6e--E/rs:fit:1000:920:1/g:ce/aHR0cHM6Ly8zLmJw/LmJsb2dzcG90LmNv/bS8tNWwwT2RxRGNt/YlkvVnN3Zmt4am1n/VkkvQUFBQUFBQUNW/czAvVWxCT21LdmZa/NkkvczE2MDAvc3Vw/ZXJzcG9ydHMuanBn" group-title="Sports",Supersport Maximo 🇿🇦
+#EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=572
+https://webudi.openhd.lol/lb/premium572/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/JHYDC2agrVE4xXKREK_8J7a1Vc3PVJfXnbjJQjxN1KY/rs:fit:717:300:1/g:ce/aHR0cHM6Ly93d3cu/bW9ucGV0aXRmb3Jm/YWl0LmNvbS9jb21w/YXJhdGV1ci1ib3gt/aW50ZXJuZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDYv/Rm9vdHBsdXMyLnBu/Zw" group-title="Sports",Canal foot+ 🇫🇷
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=463
 https://webudi.openhd.lol/lb/premium463/index.m3u8
@@ -76,12 +80,6 @@ https://webudi.openhd.lol/lb/premium456/index.m3u8
 #EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=457
 https://webudi.openhd.lol/lb/premium457/index.m3u8
 
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=2665726,AVERAGE-BANDWIDTH=2526299,RESOLUTION=960x540,FRAME-RATE=29.970,CODECS="avc1.640029,mp4a.40.2",SUBTITLES="subtitles"
-https://sbanh.com/c/1phk5hgqzqft.html
-#EXT-X-STREAM-INF:BANDWIDTH=3956044,AVERAGE-BANDWIDTH=3736264,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.640029,mp4a.40.2",SUBTITLES="subtitles"
-https://sbanh.com/c/1phk5hgqzqft.html
-#EXT-X-STREAM-INF:BANDWIDTH=995315,AVERAGE-BANDWIDTH=951107,RESOLUTION=640x360,FRAME-RATE=29.970,CODECS="avc1.4D401E,mp4a.40.2",SUBTITLES="subtitles"
-https://sbanh.com/c/1phk5hgqzqft.html
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="caption_1",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="eng",URI="index_4_0.m3u8"
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/dNJOPrmdHLagtJQGA7RIWWSw7Z7Bge0lQME0N2uZrrU/rs:fit:790:306:1/g:ce/aHR0cHM6Ly93d3cu/bWVkaWFzcGVjcy5i/ZS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ny8wNC9lbGV2ZW4t/c3BvcnRzLnBuZw" group-title="Sports", Elevensport 4 🇵🇹
+#EXTVLCOPT:http-referrer=streamservicehd.click/premiumtv/livetvon.php?id=458
+https://webudi.openhd.lol/lb/premium458/index.m3u8

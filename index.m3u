@@ -103,3 +103,10 @@ http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104600
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/WvDFsXkjQ-jm8-wcgI_xDZmfre8id0YSLqIdmndUko0/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93aGF0/cGhvbmUuY29tLmF1/L2Fzc2V0cy8yMDIw/LzAyL09wdHVzU3Bv/cnQuanBn" group-title="Sports",Optus Sport 3 🇦🇺(ပွဲလာမှပွင့်)
 http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104601
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/F7ZMlgbLVEcmLCkaEVuzDtj4MXjW14Fl71EBuvqhDOU/rs:fit:412:183:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vYi9iOC9N/VVRWX2xvZ28ucG5n" group-title="Sports", ManU TV FHD 🇬🇧
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/F7ZMlgbLVEcmLCkaEVuzDtj4MXjW14Fl71EBuvqhDOU/rs:fit:412:183:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vYi9iOC9N/VVRWX2xvZ28ucG5n" group-title="Sports", ManU TV SD 🇬🇧
+https://s2.streamia.xyz:8443/uk/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIyIDQ6MjE6NTQgQU0maGFzaF92YWx1ZT1TbXpNV3Y3N3owUUh2UC9oUWpIS2tRPT0mdmFsaWRtaW51dGVzPTI=

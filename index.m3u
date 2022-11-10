@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:216
+#EXTINF:10,
+l_70654_2160056_216.ts?nimblesessionid=8858777&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMiAzOjA1OjEzIFBNJmhhc2hfdmFsdWU9eTZhVXc4Ulp3K1lhY1B6Y3ZWdDNIZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPWJnaHIyOTcxNTQ=
+#EXTINF:10,
+l_70654_2170056_217.ts?nimblesessionid=8858777&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMiAzOjA1OjEzIFBNJmhhc2hfdmFsdWU9eTZhVXc4Ulp3K1lhY1B6Y3ZWdDNIZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPWJnaHIyOTcxNTQ=
+#EXTINF:10,
+l_70654_2180056_218.ts?nimblesessionid=8858777&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMiAzOjA1OjEzIFBNJmhhc2hfdmFsdWU9eTZhVXc4Ulp3K1lhY1B6Y3ZWdDNIZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPWJnaHIyOTcxNTQ=
+#EXTINF:10,
+l_70654_2190056_219.ts?nimblesessionid=8858777&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyMiAzOjA1OjEzIFBNJmhhc2hfdmFsdWU9eTZhVXc4Ulp3K1lhY1B6Y3ZWdDNIZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPWJnaHIyOTcxNTQ=
+
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/AiJwe6wZE-xhv-MUML72LI1a4j3cgx4Eziqm06HAaec/rs:fit:320:140:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2Q3L1VT/QV9OZXR3b3JrX2xv/Z29fKDIwMTYpLnN2/Zy8zMjBweC1VU0Ff/TmV0d29ya19sb2dv/XygyMDE2KS5zdmcu/cG5n" group-title="Sports",USA NETWORK FHD 🇱🇷(web)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/wiki.php?id=27
 https://webui.openhd.lol/lb/wiki27/index.m3u8
